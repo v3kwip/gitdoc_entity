@@ -1,3 +1,5 @@
+This is my idea, will work on this when I have spare time.
+
 gitdoc_entity
 =============
 
